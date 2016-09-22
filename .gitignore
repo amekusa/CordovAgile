@@ -1,4 +1,7 @@
+/platforms/
+/plugins/
 
+# //////// DO NOT EDIT BELOW ////////
 # Created by https://www.gitignore.io/api/osx,linux,windows,eclipse,vim,node,bower
 
 ### OSX ###
